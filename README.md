@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hakan
 -  I'm currently a 1st year computer engineering student at Galatasaray University (Istanbul/Turkey)
--  I’m currently trying to improve my Python skills and delve deeper on Data Dcience,
--  ALso learning C as a part of my university syllabus.
+-  I’m currently trying to improve my Python skills and delve deeper on Data Science,
+-  Also learning C as a part of my university syllabus.
 
 -  LinkedIn : https://www.linkedin.com/in/hakansavass/
 
